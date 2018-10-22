@@ -1,0 +1,11 @@
+body {
+margin: 0;
+padding: 0;
+
+front-family: "PT Sans Narrow", Arial, sans-serif;
+front-size: 14px;
+}
+
+a {
+  background-color: green;
+}
