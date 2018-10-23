@@ -1,7 +1,21 @@
 body {
-margin: 0;
-padding: 0;
-
+border: 5px solid red;
 front-family: "PT Sans Narrow", Arial, sans-serif;
 front-size: 14px;
+}
+
+.main-header {
+  text-align: center;
+}
+
+.site-navigation {
+  border: 5px solid green;
+  width: 900px;
+  front-family: "PT Sans Narrow", Arial, sans-serif;
+  front-size: 14px;
+}
+
+.user-block {
+  border: 5px solid yellow;
+  padding: 6px;
 }
